@@ -1,4 +1,5 @@
 # Usage
-$ npm install
-$ cp .env.example .env
-$ npm start
+<code>
+  <p>$ npm install</p> 
+  <p>$ npm start</p>
+</code>
