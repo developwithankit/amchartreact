@@ -1,2 +1,4 @@
-# amchartreact
-Implementation of amCharts in React
+# Usage
+$ npm install
+$ cp .env.example .env
+$ npm start
